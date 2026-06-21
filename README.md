@@ -4,7 +4,7 @@
 * **Título do Projeto:** Ajuda Lá - Plataforma de Agendamento de Serviços
 * **Integrantes da Equipe:**
   * Gabriel Henrique Vilar
-  * [Nome Completo do Dev 2]
+  * [Davi Dominicki]
   * [Nome Completo do Dev 3]
 * **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 * **Turma:** [Inserir Turma/Semestre]
