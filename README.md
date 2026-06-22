@@ -5,7 +5,7 @@
 * **Integrantes da Equipe:**
   * Gabriel Henrique Vilar
   * [Davi Dominicki]
-  * [Nome Completo do Dev 3]
+  * Arthur Chrispim Mainardes Ribeiro
 * **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 * **Turma:** [Inserir Turma/Semestre]
 
